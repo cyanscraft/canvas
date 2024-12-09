@@ -1,0 +1,16 @@
+{
+    "id": "24aba998-6afa-42e3-8dd9-40a19ac23384",
+    "version": 0,
+    "name": "canvas",
+    "mainScript": "canvas.js",
+    "languageId": "JS_RHINO",
+    "isEnabled": true,
+    "isPinned": false,
+    "createdMillis": 1733534694363,
+    "allowedEventIds": [
+        "starlight.*"
+    ],
+    "packages": [
+        "com.kakao.talk"
+    ]
+}
